@@ -1,5 +1,7 @@
 # Git For Noobs
 
+![Git Picture](https://cdn-images-1.medium.com/fit/t/1600/480/1*S-_fv45WT4MgqtnPVsxtHQ.jpeg)
+
 Plus tu vas évoluer dans le monde de la technologie, plus tu vas entendre parler de _'repos' ou 'dépôt' ou 'git' ou 'hub'_, bref des termes qui parraîssent venir d'une autre dimension, mais qui, crois moi sont extrêment simple.
 Tout d'abord il faut faire la différence en *git* et les autres ennumérés; en effet, ils fonctionnent tellement de manière synchro, et sont tellement utilisés ensemble que l'on laisserait croire que c'est la même chose.
 
