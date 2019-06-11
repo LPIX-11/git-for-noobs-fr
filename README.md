@@ -7,7 +7,7 @@ Tout d'abord il faut faire la différence en *git* et les autres ennumérés; en
 
 ## Qu'est ce que git
 
-Git est ce qu'on appel un _version controller_ en simple un controlleur de versions de l'ensemble des fichiers d'un projet. Peux importe le type du projet.
+Git est ce qu'on appel un _version controller_ en simple un controlleur de l'ensemble des versions des fichiers d'un projet. Peux importe le type du projet.
 
 * Qu'est-ce que _version controller_?
 
