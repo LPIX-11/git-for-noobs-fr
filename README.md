@@ -85,6 +85,6 @@ Très important aussi, si nous travaillons à plusieurs, pour récupérer les mo
 
 * git pull
 
-    git testera d'aord s'il y a eu des changements sur le projets que tu n'as pas encore, et si c'est le cas, il va lui même créer un point de sauvegarde (une version) et puis mettre à jour ton projet
+    git testera d'abord s'il y a eu des changements sur le projets que tu n'as pas encore, et si c'est le cas, il va lui même créer un point de sauvegarde (une version) et puis mettre à jour ton projet
 
 Voilà ^_^
